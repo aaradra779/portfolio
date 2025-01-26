@@ -35,7 +35,7 @@ function Projects() {
             name : 'Portfolio',
             link : 
                 {
-                    git : 'git',
+                    git : 'https://github.com/aaradra779/portfolio',
                     live : null
                 }
                 
