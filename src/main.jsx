@@ -6,9 +6,11 @@ import App from './App.jsx'
 import About from './components/About.jsx'
 import { createBrowserRouter, createRoutesFromElements, RouterProvider  , Route} from 'react-router-dom'
 import ReactDOM from 'react-dom/client';
-import Navbar from './components/navbar.jsx';
+// import Navbar from './components/Navbar.jsx';
 import Home from './components/Home.jsx';
 import Projects from './components/Projects.jsx';
+import Navbar from './components/Navbar.jsx';
+
 
 
 const router = createBrowserRouter(
