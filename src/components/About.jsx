@@ -1,5 +1,5 @@
 import React from 'react'
-import Navbar from './navbar'
+// import Navbar from './navbar'
 import { Link } from 'react-router-dom'
 import AaradraGautam from '../assets/AaradraGautam.pdf'
 import AaradraGautamUI from '../assets/AaradraGautamUI.pdf'
